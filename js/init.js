@@ -7,6 +7,5 @@ firebase.initializeApp({
     projectId: "rmrbdx1",
     storageBucket: "rmrbdx1.appspot.com",
     messagingSenderId: "542459306880",
-    appId: "1:542459306880:web:6e64de1f33602cfc579765",
-    measurementId: "G-DRRHJ4F65D"
-});
+    appId: "1:542459306880:web:6e64de1f33602cfc579765"
+    });
